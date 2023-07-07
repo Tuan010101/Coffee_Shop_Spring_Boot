@@ -1,6 +1,6 @@
-**Back-end: Java sử dụng Spring Boot
-Front-end: Bootstrap
-Database: MySQL**
+**Back-end: Java sử dụng Spring Boot**
+**Front-end: Bootstrap**
+**Database: MySQL**
 
 # Coffee_Shop_Spring_Boot
 **Một số hình ảnh website**
